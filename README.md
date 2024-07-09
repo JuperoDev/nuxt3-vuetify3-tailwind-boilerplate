@@ -1,6 +1,7 @@
-# Nuxt 3 Minimal Starter
+# Job Board 
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Use `nuxt dev` for development and `npx vitest` for testing. More details below. 
+
 
 ## Setup
 
@@ -72,4 +73,12 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Running Tests
+
+Run your tests using Vitest:
+
+```
+npx vitest
+
+```
+

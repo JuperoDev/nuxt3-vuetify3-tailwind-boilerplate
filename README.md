@@ -1,4 +1,4 @@
-# Job Board 
+# nuxt3-vuetify3-tailwind
 
 Use `nuxt dev` for development and `npx vitest` for testing. More details below. 
 
